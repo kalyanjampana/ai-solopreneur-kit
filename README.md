@@ -8,7 +8,7 @@ This repository contains the **Slides** and the **System Prompts** (The Organic-
 
 ### 1. The Slides
 *   **[Interactive Slides (SPA)](https://ai-solopreneur.pages.dev/)**
-*   **[Download PDF](./The AI Solopreneur - Slides.pdf)**
+*   **[Download PDF](./slides.pdf)**
 
 ## 🛠️ The "Context" Secret
 In the talk, I mentioned using **Repomix** to give the AI context.
