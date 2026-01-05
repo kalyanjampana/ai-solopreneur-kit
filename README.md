@@ -13,7 +13,7 @@ This repository contains the **Slides** and the **System Prompts** (The Organic-
 ## 🛠️ The "Context" Secret
 In the talk, I mentioned using **Repomix** to give the AI context.
 **Phase 1-3** can often be done with a fresh chat context.
-**Phase 4 (Building)** requires the AI to "see" your existing code.
+**Phase 4 (Building)** requires the AI to understand your existing code.
 
 **Recommended Workflow:**
 1. Run `npx repomix` in your terminal to pack your codebase.
